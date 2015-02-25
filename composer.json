@@ -1,0 +1,17 @@
+{
+	"name": "kikimor/yii-mysql-datetime-behavior",
+	"description": "MySQL datetime behavior for Yii-1",
+	"require": {
+		"php": ">=5.5.0",
+		"yiisoft/yii": "1.1.*"
+	},
+	"autoload": {
+		"psr-4": {"Kikimor\\MySQLDateTimeBehavior\\": ""}
+	},
+	"authors": [
+		{
+			"name": "kikimor",
+			"email": "i@kikimor.ru"
+		}
+	]
+}
